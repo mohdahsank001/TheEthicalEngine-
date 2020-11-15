@@ -1,5 +1,8 @@
 # TheEthicalEngine-
 
+An AI program designed to explore different scenarios which would include interaction between pedestrians and passengers in a vehicle at the pedestrian crossing and produce a decision on whom to survive ! 
+
+
 The scenario entails an autonomous car whose brakes fail at a pedestrian crossing. As it is too late to relinquish control to the car's passengers, the car needs to make a decision based on the facts available about the situation.
 
 
