@@ -1,4 +1,4 @@
-# TheEthicalEngine-
+# TheEthicalEngine (code to the AI problem on https://www.moralmachine.net/) -
 ------------------------------------
 
 An AI program or a decision Algorithm designed to explore different scenarios which would include interaction between pedestrians and passengers in a vehicle at the pedestrian crossing and produce a decision on whom to survive !
