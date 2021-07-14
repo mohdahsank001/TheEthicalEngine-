@@ -19,6 +19,9 @@ Scenario.java : This class contains all relevant information about a presented s
 
 ScenarioGenerator.java : The class ScenarioGenerator.java will be the basis of the simulation and shall be used to create a variety of scenarios. To guarantee a balanced set of scenarios, it is crucial to randomize as many elements as possible, including the number and characteristics of persons and animals involved in each scenario as well as the scenario itself. 
 
+![image](https://user-images.githubusercontent.com/67852641/125564182-9e725770-7893-42d0-b39f-80e6b9452403.png)
+
+
 
 for more info Visit : 
 
