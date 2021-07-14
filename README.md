@@ -25,6 +25,7 @@ ScenarioGenerator.java : The class ScenarioGenerator.java will be the basis of t
 
 
 ![image](https://user-images.githubusercontent.com/67852641/125564257-e3da3dd0-e7e7-4eac-b8d2-916429910f62.png)
+
 (image source: http://moralmachine.mit.edu/).
 
 In the figure above, A scenario example can be seen. A self driving car approaches a pedestrian crossing but it's break would fail. The Algorithm and the code that I have desgined would decide between the two cases. 
