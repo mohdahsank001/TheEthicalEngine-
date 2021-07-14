@@ -1,7 +1,10 @@
 # TheEthicalEngine-
 ------------------------------------
 
-An AI program or a decision Algorithm designed to explore different scenarios which would include interaction between pedestrians and passengers in a vehicle at the pedestrian crossing and produce a decision on whom to survive ! The Decision Algorithm would choose either PEDESTRIANS or PASSENGERS and to make the decision the algorithm would consider the characteristics (age, bodyType, pets, etc.) into account when making the decision. The Decision have been made on atleast 5 characteristics from the scenario itself(eg. whether it's a legal crossing or not) or these are chosen from the character's attributes.  
+An AI program or a decision Algorithm designed to explore different scenarios which would include interaction between pedestrians and passengers in a vehicle at the pedestrian crossing and produce a decision on whom to survive !
+
+
+The Decision Algorithm would choose either PEDESTRIANS or PASSENGERS and to make the decision the algorithm would consider the characteristics (age, bodyType, pets, etc.) into account when making the decision. The Decision have been made on atleast 5 characteristics from the scenario itself(eg. whether it's a legal crossing or not) or these are chosen from the character's attributes.  
 
 
 The scenario entails an autonomous car whose brakes fail at a pedestrian crossing. As it is too late to relinquish control to the car's passengers, the car needs to make a decision based on the facts available about the situation.
